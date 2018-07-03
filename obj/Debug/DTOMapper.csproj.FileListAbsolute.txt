@@ -1,5 +1,0 @@
-c:\users\abdullah\documents\visual studio 2015\Projects\DtoMapperTest\DTOMapper\bin\Debug\DTOMapper.dll
-c:\users\abdullah\documents\visual studio 2015\Projects\DtoMapperTest\DTOMapper\bin\Debug\DTOMapper.pdb
-c:\users\abdullah\documents\visual studio 2015\Projects\DtoMapperTest\DTOMapper\obj\Debug\DTOMapper.dll
-c:\users\abdullah\documents\visual studio 2015\Projects\DtoMapperTest\DTOMapper\obj\Debug\DTOMapper.pdb
-c:\users\abdullah\documents\visual studio 2015\Projects\DtoMapperTest\DTOMapper\obj\Debug\DTOMapper.csprojResolveAssemblyReference.cache
